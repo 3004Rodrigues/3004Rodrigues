@@ -43,3 +43,26 @@ You can click the Preview link to take a look at your changes.
  </p>
  </body>
  </html>
+
+
+ <!DOCTYPE html>
+<html>
+
+<head>
+
+<title> página experimental</title>
+</head>
+
+<body>
+
+<h2> Seja Bem-vindo  a este conteúdo </h2>
+
+<p> Esta é uma página simples </p>
+
+<p><i> Este texto está no formato itálico </i>.<p>
+
+<p> Podemos alterá-lo</p>
+
+</body>
+
+</html>
